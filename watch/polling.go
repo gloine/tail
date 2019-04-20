@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/influxdata/tail/util"
+	"github.com/gloine/tail/util"
 	"gopkg.in/tomb.v1"
 )
 

@@ -5,7 +5,7 @@ package tail
 import (
 	"os"
 
-	"github.com/influxdata/tail/winfile"
+	"github.com/gloine/tail/winfile"
 )
 
 func OpenFile(name string) (file *os.File, err error) {

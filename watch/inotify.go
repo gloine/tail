@@ -8,7 +8,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/influxdata/tail/util"
+	"github.com/gloine/tail/util"
 
 	"github.com/gloine/fsnotify"
 	"gopkg.in/tomb.v1"

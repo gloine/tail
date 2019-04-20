@@ -10,7 +10,7 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/influxdata/tail/util"
+	"github.com/gloine/tail/util"
 
 	"github.com/gloine/fsnotify"
 )

@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/influxdata/tail"
+	"github.com/gloine/tail"
 )
 
 func args2config() (tail.Config, int64) {

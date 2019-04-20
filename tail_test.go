@@ -14,8 +14,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/influxdata/tail/ratelimiter"
-	"github.com/influxdata/tail/watch"
+	"github.com/gloine/tail/ratelimiter"
+	"github.com/gloine/tail/watch"
 )
 
 func init() {
