@@ -10,7 +10,7 @@ import (
 
 	"github.com/influxdata/tail/util"
 
-	"gopkg.in/fsnotify.v1"
+	"github.com/gloine/fsnotify"
 	"gopkg.in/tomb.v1"
 )
 
